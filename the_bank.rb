@@ -184,4 +184,6 @@ def clear_screen
   system "cls" or system "clear"
 end
 
+puts "Drew Was Here again"
+puts "Hopefully in a branch this time"
 welcome_screen
