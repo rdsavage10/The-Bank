@@ -47,6 +47,3 @@ class Account
     puts "Your new balance is $#{format('%0.2f', @balance)}"
   end
 end
-
-class Passwords
-end

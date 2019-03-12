@@ -1,6 +1,6 @@
 #the_bank.rb
 require_relative 'bank_classes'
-#test
+
 @customers = []
 
 def welcome_screen
@@ -186,4 +186,3 @@ end
 
 welcome_screen
 puts "Drew Was Here"
-#Drew Was here
