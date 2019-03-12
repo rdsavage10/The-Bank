@@ -186,4 +186,6 @@ end
 
 puts "Drew Was Here again"
 puts "Hopefully in a branch this time"
+puts "Careful what is edited on the master"
+puts "5 errors! That is too much."
 welcome_screen
