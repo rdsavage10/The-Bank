@@ -1,6 +1,6 @@
 #the_bank.rb
 require_relative 'bank_classes'
-
+#test
 @customers = []
 
 def welcome_screen
